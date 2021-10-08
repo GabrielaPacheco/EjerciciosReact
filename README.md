@@ -21,3 +21,5 @@ https://snack.expo.dev/@gabrielag/guiapractica7
 https://snack.expo.dev/@gabrielag/guia7complementario
 
 https://snack.expo.dev/@gabrielag/guiapractica8
+
+https://snack.expo.dev/@gabrielag/guia8complementario
