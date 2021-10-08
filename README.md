@@ -15,3 +15,9 @@ https://snack.expo.dev/@gabrielag/guia5complementario
 https://snack.expo.dev/@gabrielag/guiapractica6
 
 https://snack.expo.dev/@gabrielag/guia6complementario
+
+https://snack.expo.dev/@gabrielag/guiapractica7
+
+https://snack.expo.dev/@gabrielag/guia7complementario
+
+https://snack.expo.dev/@gabrielag/guiapractica8
